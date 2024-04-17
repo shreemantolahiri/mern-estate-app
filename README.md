@@ -73,7 +73,9 @@ VITE_FIREBASE_API_KEY=your_google_client_id
 
 ## Deployment
 
-The project is deployed on the Render platform. Follow the instructions on Render's documentation to deploy your instance of the application.
+The project is deployed on the Render platform. Visit the deployed application here: [Beluga Estate Live](https://mern-estate-app-b625.onrender.com/)
+
+Follow the instructions on Render's documentation to deploy your instance of the application.
 
 ## Contributing
 
